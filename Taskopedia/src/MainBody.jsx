@@ -19,10 +19,6 @@ class MainBody extends React.Component {
           <li>Basic Foundation</li>
           <li>Functional and Class Components</li>
         </ul>
-        {/*<div>
-        Enter Task :{" "}
-        <input maxLength={5} readOnly={false} placeholder="Ben"></input>
-      </div>*/}
         <div className="container row">Students Enrolled</div>
         <Student
           experience={2}
